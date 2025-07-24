@@ -1,4 +1,8 @@
 {
   "password": "12345",
-  "blocked_sites": ["facebook.com", "youtube.com"]
+  "blockedSites": [
+    "facebook.com",
+    "youtube.com",
+    "twitter.com"
+  ]
 }
