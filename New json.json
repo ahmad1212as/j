@@ -1,7 +1,7 @@
 {
   "password": "12345",
   "blockedSites": [
-    "facebook.com",
+    "www.youtube.com",
     "youtube.com",
     "twitter.com"
   ]
